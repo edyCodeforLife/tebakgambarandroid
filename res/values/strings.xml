@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tebakgambaredy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_kupas">TebakGambar</string>
+    <string name="title_activity_daun">TebakGambar</string>
+    <string name="title_activity_fermentasi">TebakGambar</string>
+    <string name="title_activity_igabakar">TebakGambar</string>
+    <string name="title_activity_jambu">TebakGambar</string>
+    <string name="title_activity_kambing">TebakGambar</string>
+    <string name="title_activity_mari">TebakGambar</string>
+    <string name="title_activity_mata">TebakGambar</string>
+    <string name="title_activity_mati">TebakGambar</string>
+    <string name="title_activity_end">TebakGambar</string>
+
+</resources>
